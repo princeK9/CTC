@@ -1,0 +1,14 @@
+# Ignore executable files
+*.exe
+
+# Ignore user data and logs
+users.csv
+logs/
+
+# Ignore IDE/editor specific folders
+.vscode/
+
+# Ignore previous/temporary source files
+prevC.cpp
+prevS.cpp
+x.md
