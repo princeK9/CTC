@@ -1,4 +1,4 @@
-# C++ Multi-Threaded Terminal Chat Server
+# Chat Server
 
 A feature-rich, multi-threaded, terminal-based chat application built in C++ using Winsock for networking. Implements a client-server architecture supporting multiple users, public/private rooms, direct messaging, and admin management.
 
